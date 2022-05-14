@@ -1,0 +1,14 @@
+The following are some commands that I have learnt:
+git --version              --   This command is used to display the git version in our machine.
+git clone                  --   This command is used to clone a repository into our local machine.We should paste the link of the repository to be cloned after that git clone i.e "git clone URL ".
+git remote -v              --   This command is used to show the origin/URL from which we've downloaded the repository.
+git add filename           --   This command is used to add local files to the repository.
+git commit -m              --   This command is used to commit changes to the repository.
+git log                    --   This command clearly shows the commits and changes that we've done so far.
+git log --oneline --decorate --graph --all     -- This command gives a better visualization of commits and details.
+git add .                  --   This command adds all the files in the current directory.
+git push                   --   This command pushes all the changes to the server.
+git pull                   --   This command pulls all the changes from the server to our local machine.
+git config --global user.name "Username"       -- This command is used to add username. So that there may not be errors in the further addition of commits,changes etc.
+git config --global user.email "email"         -- This command is used to add email.
+
