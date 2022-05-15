@@ -12,3 +12,7 @@ git pull                   --   This command pulls all the changes from the serv
 git config --global user.name "Username"       -- This command is used to add username. So that there may not be errors in the further addition of commits,changes etc.
 git config --global user.email "email"         -- This command is used to add email.
 
+I have learned the following in today's lecture.
+
+    Visual Studio Code (VS Code) is an open source free editor available for us.It is actually useful to edit the text files,csv files,markdown files etc.This editor supports many extensions too.Another important feature of this editor is that we can visualize or preview what we've done in that file.The extension for a markdown file is .md .It is a built in editor which consists of various useful options like Source control,Run and Debug,Extensions etc."Markdown All in One" is one of the useful extensions.It basically helps us to preview the file which gives a better understanding of our changes/commits.In markdown whatever we write is in the plain text.Markdown is a language which creates formatted text using a plain text editor.In a document first we'll mention title then section and then subsections.We'll use hash(#) to create/add a title, a double hash(##) to add a section and a triple hash(###) to add a subsection.Simply number of hashes represents it's level.We can also have bullet points,numbered lists,tables,highlighted texts etc.
+
